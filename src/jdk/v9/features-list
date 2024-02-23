@@ -1,3 +1,8 @@
 JShell - A REPL (Read Evaluate Print Loop) tool
 Factory methods for Immutable List, Set, Map & Map.Entry
 Private methods in Interface along with Default & Static methods
+Modularity
+    - No missing dependencies
+    - No cyclic dependencies
+    - No split packages
+    Ref. YT link - https://www.youtube.com/watch?v=DItYExUOPeM
